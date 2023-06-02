@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NDOg2IxHJ/8XtNFl1dogjysYKGXRRSPoMvj9NCkk0+hqup1M54+iAh0Lxyq5wdNScxXMOoiSf6FHbjjCL6+15Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hando\\Desktop\\Monitor\\Monitor\\Monitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hando\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\hando\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
