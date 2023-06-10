@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hando\\Desktop\\Monitor\\Monitor\\Monitor.csproj",
+      "projectUniqueName": "C:\\Users\\hando\\Desktop\\Monitor brightness\\Monitor\\Monitor\\Monitor.csproj",
       "projectName": "Monitor",
-      "projectPath": "C:\\Users\\hando\\Desktop\\Monitor\\Monitor\\Monitor.csproj",
+      "projectPath": "C:\\Users\\hando\\Desktop\\Monitor brightness\\Monitor\\Monitor\\Monitor.csproj",
       "packagesPath": "C:\\Users\\hando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hando\\Desktop\\Monitor\\Monitor\\obj\\",
+      "outputPath": "C:\\Users\\hando\\Desktop\\Monitor brightness\\Monitor\\Monitor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

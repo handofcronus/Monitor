@@ -12,25 +12,29 @@ if(args.Length==2)
 }
 else
 {
-    Console.WriteLine("morning? (y/n)");
-    var res = Console.ReadKey();
-    if(res.KeyChar=='y')
+    var res = 'b';
+    while(res!='n' || res!='y')
     {
-        mon.SetBrightness(50);
-        mon.SetContrast(50);
-        InbuiltMonitorController.Set(100);
-        return;
-    }
-    if(res.KeyChar=='n')
-    {
-        mon.SetBrightness(0);
-        mon.SetContrast(0);
-        InbuiltMonitorController.Set(0);
-        return;
-    }
-    else
-    {
-        Console.WriteLine("wrong input.");
+        Console.WriteLine("morning? (y/n)");
+        res = Console.ReadKey().KeyChar;
+        if (res == 'y')
+        {
+            mon.SetBrightness(50);
+            mon.SetContrast(50);
+            InbuiltMonitorController.Set(100);
+            return;
+        }
+        if (res == 'n')
+        {
+            mon.SetBrightness(0);
+            mon.SetContrast(0);
+            InbuiltMonitorController.Set(0);
+            return;
+        }
+        else
+        {
+            Console.WriteLine("wrong input.");
+        }
     }
 
 }

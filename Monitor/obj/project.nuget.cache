@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NDOg2IxHJ/8XtNFl1dogjysYKGXRRSPoMvj9NCkk0+hqup1M54+iAh0Lxyq5wdNScxXMOoiSf6FHbjjCL6+15Q==",
+  "dgSpecHash": "Krq0/XThnKXrf/OldIj4P7qN55MtNvRIO5MCSOBFTIRHaR+SYV2B2dl4/w8LOt9WLdri7VnHU1HucE7YPOjxBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hando\\Desktop\\Monitor\\Monitor\\Monitor.csproj",
+  "projectFilePath": "C:\\Users\\hando\\Desktop\\Monitor brightness\\Monitor\\Monitor\\Monitor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hando\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
     "C:\\Users\\hando\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512"

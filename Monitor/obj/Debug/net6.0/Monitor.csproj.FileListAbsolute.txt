@@ -17,3 +17,22 @@ C:\Users\hando\Desktop\iOS\Monitor\Monitor\bin\Debug\net6.0\System.CodeDom.dll
 C:\Users\hando\Desktop\iOS\Monitor\Monitor\bin\Debug\net6.0\System.Management.dll
 C:\Users\hando\Desktop\iOS\Monitor\Monitor\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
 C:\Users\hando\Desktop\iOS\Monitor\Monitor\obj\Debug\net6.0\Monitor.csproj.CopyComplete
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\bin\Debug\net6.0\Monitor.exe
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\bin\Debug\net6.0\Monitor.deps.json
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\bin\Debug\net6.0\Monitor.runtimeconfig.json
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\bin\Debug\net6.0\Monitor.dll
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\bin\Debug\net6.0\Monitor.pdb
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\bin\Debug\net6.0\System.Management.dll
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\Monitor.csproj.AssemblyReference.cache
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\Monitor.AssemblyInfoInputs.cache
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\Monitor.AssemblyInfo.cs
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\Monitor.csproj.CopyComplete
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\Monitor.dll
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\refint\Monitor.dll
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\Monitor.pdb
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\Monitor.genruntimeconfig.cache
+C:\Users\hando\Desktop\Monitor brightness\Monitor\Monitor\obj\Debug\net6.0\ref\Monitor.dll
